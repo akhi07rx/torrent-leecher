@@ -1,5 +1,5 @@
 # Torrent Leecher
-### Moded By <a href='https://youtube.com/channel/UCXl_dzFIxfmAlaPtD7AZY7A'>𝕎𝕆𝕃𝕋ℝ𝔼𝕏</a>
+### Moded By AKHI X7</a>
 
 - This Bot allows you to leech (re-upload) contents from internet including torrent to telegram.
 
